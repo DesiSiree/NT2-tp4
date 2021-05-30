@@ -1,0 +1,22 @@
+.src-componentes-formulario {
+    background-color: rgb(126, 126, 126);
+}
+
+.jumbotron {
+    background-color: rgb(238, 133, 173);
+    color: white;
+}
+
+hr {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+pre {
+    color: white;
+}
+
+.btn-success my-4{
+    color: black;
+    background-color:  rgb(255, 251, 0);
+
+}
